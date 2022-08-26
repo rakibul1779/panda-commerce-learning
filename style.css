@@ -1,0 +1,93 @@
+.container
+{
+    margin-bottom: 100px;
+}
+
+.carousel-item
+{
+  padding: 20px 40px;
+}
+.col-md-7
+{
+    padding-left: 150px;
+}
+.col-md-5
+{
+    padding-right: 40px;
+}
+.bg-colour
+{
+    background-image: linear-gradient(to bottom,yellow 0%,orangered 100%);
+    border-radius: 10px;
+}
+
+.price
+{
+    color: #ff136f;
+    color: or;
+}
+
+.btn-bye-now
+{
+    background-image: linear-gradient(to bottom,#ff58a6 0%,#ff136f 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.cat1,.cat2,.cat3
+{
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+
+.cat1
+{
+    background-image: linear-gradient(to bottom,#775a67 0%,#ff136f 100%);
+}
+
+.cat2
+{
+    background-image: linear-gradient(to bottom,#775a67 0%,#ff136f 100%);
+}
+
+.cat3
+{
+    background-image: linear-gradient(to bottom,#775a67 0%,#ff136f 100%);
+}
+
+.categorie h1
+{
+    color: white;
+}
+
+.categorie img
+{
+    width: 150px;
+}
+.card
+{
+    border: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer
+{
+    background-color: white;
+    border-top: none;
+}
+#contactus
+{
+    height: 300px;
+}
+#contactus p
+{
+    color: gray;
+}
+footer
+{
+    text-align: center;
+}
